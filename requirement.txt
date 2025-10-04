@@ -1,0 +1,6 @@
+install python 3.10
+install numpy
+install tensorflow
+install keras
+install streamlit
+install nltk
